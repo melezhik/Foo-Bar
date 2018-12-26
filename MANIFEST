@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Foo-Bar.t
+lib/Foo/Bar.pm

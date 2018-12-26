@@ -1,0 +1,6 @@
+Revision history for Perl extension Foo::Bar.
+
+0.01  Wed Dec 26 22:51:04 2018
+	- original version; created by h2xs 1.23 with options
+		-X -A -n Foo::Bar
+
